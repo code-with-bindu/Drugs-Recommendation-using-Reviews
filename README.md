@@ -24,6 +24,7 @@ Can you predict the rating of the drug based on the review?
 What elements of a review make it more helpful to others? Which patients tend to have more negative reviews? Can you determine if a review is positive, neutral, or negative?
 
 # Data visualizations: 
+
 What kind of drugs are there? What sorts of conditions do these patients have?
 
 
@@ -34,6 +35,7 @@ How many domains of analysis and topics does this Kernel cover? Does it attempt 
 What is the subject matter of this Kernel? Does it have a well-defined and interesting project scope, narrative or problem? Could the results make an impact? Is it thought provoking?
 
 # Approachable: 
+
 How easy is it to understand this Kernel? Are all thought processes clear? Is the code clean, with useful comments? Are visualizations and processes articulated and self-explanatory?
 Teams with top submissions have a chance to receive exclusive Kaggle University Club swag and be featured on our official blog and across social media.
 
