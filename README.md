@@ -11,6 +11,7 @@ Analyzing the Drugs Descriptions, conditions, reviews and then recommending it u
 
 Machine learning has permeated nearly all fields and disciplines of study. One hot topic is using natural language processing and sentiment analysis to identify, extract, and make use of subjective information. The UCI ML Drug Review dataset provides patient reviews on specific drugs along with related conditions and a 10-star patient rating system reflecting overall patient satisfaction. The data was obtained by crawling online pharmaceutical review sites. This data was published in a study on sentiment analysis of drug experience over multiple facets, ex. sentiments learned on specific aspects such as effectiveness and side effects (see the acknowledgments section to learn more).
 
+
 The sky's the limit here in terms of what your team can do! Teams are free to add supplementary datasets in conjunction with the drug review dataset in their Kernel. Discussion is highly encouraged within the forum and Slack so everyone can learn from their peers.
 
 # Here are just a couple ideas as to what you could do with the data:
